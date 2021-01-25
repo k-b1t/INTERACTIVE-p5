@@ -3,6 +3,8 @@
   Izveidot bezjēdzīgu mājaslapu p5. Web lapai ir jābūt maksimāli vienkāršam kura rada interesi no tā cik viņa ir bezjēdzīga. Darbam nav jābūt obligāti interaktīvam.
   Mājaslapas nosaukums ar var būt daļa no darba, skatīt piemeros. 
   
+  darbu veidot internet pārlūka ugsutmā un platumā 
+  --->  createCanvas(windowWidth, windowHeight);
   
   piemēri:
   
