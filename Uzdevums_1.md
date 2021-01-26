@@ -1,7 +1,7 @@
 **1. Useless web page / Bezjēdzīgā mājaslapa.**
 
   Izveidot bezjēdzīgu mājaslapu p5. Web lapai ir jābūt maksimāli vienkāršam kura rada interesi no tā cik viņa ir bezjēdzīga. Darbam nav jābūt obligāti interaktīvam.
-  Mājaslapas nosaukums ar var būt daļa no darba, skatīt piemeros. 
+  **Mājaslapas nosaukumam irjābūt daļai no darba**, skatīt piemeros.
   
   darbu veidot internet pārlūka ugsutmā un platumā :
 ```
@@ -32,6 +32,7 @@ createCanvas(windowWidth, windowHeight);
   
 Iesūtīit darbus īdz pirmdien 01.02.2021 rītam lai varu tos uzlikt uz servera.
 Iesūtīt projekta mapi ar "VārdsUzvārds" piem: "KristapsBiters".
+
 
 Ja gribat izmantot skaņu savā darbā tad lūdzu izmantojiet funkcijas no šī koda https://github.com/k-b1t/LMA-p5/blob/main/Sound/sound.js
 
